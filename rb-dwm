@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pushd dwm && make clean install
+popd

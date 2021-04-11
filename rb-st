@@ -1,0 +1,4 @@
+#!/bin/bash
+
+pushd st && make clean install
+popd
